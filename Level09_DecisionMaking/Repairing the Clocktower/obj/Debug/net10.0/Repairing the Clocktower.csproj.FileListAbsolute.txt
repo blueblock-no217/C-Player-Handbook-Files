@@ -1,0 +1,14 @@
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\bin\Debug\net10.0\Repairing the Clocktower.exe
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\bin\Debug\net10.0\Repairing the Clocktower.deps.json
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\bin\Debug\net10.0\Repairing the Clocktower.runtimeconfig.json
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\bin\Debug\net10.0\Repairing the Clocktower.dll
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\bin\Debug\net10.0\Repairing the Clocktower.pdb
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\obj\Debug\net10.0\Repairing the Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\obj\Debug\net10.0\Repairing the Clocktower.AssemblyInfoInputs.cache
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\obj\Debug\net10.0\Repairing the Clocktower.AssemblyInfo.cs
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\obj\Debug\net10.0\Repairing the Clocktower.csproj.CoreCompileInputs.cache
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\obj\Debug\net10.0\Repairing the Clocktower.dll
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\obj\Debug\net10.0\refint\Repairing the Clocktower.dll
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\obj\Debug\net10.0\Repairing the Clocktower.pdb
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\obj\Debug\net10.0\Repairing the Clocktower.genruntimeconfig.cache
+D:\School Programs\Programming\C#\Level09_DecisionMaking\Repairing the Clocktower\obj\Debug\net10.0\ref\Repairing the Clocktower.dll

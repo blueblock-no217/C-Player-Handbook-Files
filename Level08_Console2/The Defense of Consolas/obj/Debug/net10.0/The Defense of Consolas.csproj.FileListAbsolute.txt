@@ -1,0 +1,14 @@
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\obj\Debug\net10.0\The Defense of Consolas.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\obj\Debug\net10.0\The Defense of Consolas.AssemblyInfoInputs.cache
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\obj\Debug\net10.0\The Defense of Consolas.AssemblyInfo.cs
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\obj\Debug\net10.0\The Defense of Consolas.csproj.CoreCompileInputs.cache
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\bin\Debug\net10.0\The Defense of Consolas.exe
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\bin\Debug\net10.0\The Defense of Consolas.deps.json
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\bin\Debug\net10.0\The Defense of Consolas.runtimeconfig.json
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\bin\Debug\net10.0\The Defense of Consolas.dll
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\bin\Debug\net10.0\The Defense of Consolas.pdb
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\obj\Debug\net10.0\The Defense of Consolas.dll
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\obj\Debug\net10.0\refint\The Defense of Consolas.dll
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\obj\Debug\net10.0\The Defense of Consolas.pdb
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\obj\Debug\net10.0\The Defense of Consolas.genruntimeconfig.cache
+D:\School Programs\Programming\C#\Level08_Console2\The Defense of Consolas\obj\Debug\net10.0\ref\The Defense of Consolas.dll
