@@ -1,0 +1,14 @@
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\bin\Debug\net10.0\The Dominion of Kings.exe
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\bin\Debug\net10.0\The Dominion of Kings.deps.json
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\bin\Debug\net10.0\The Dominion of Kings.runtimeconfig.json
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\bin\Debug\net10.0\The Dominion of Kings.dll
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\bin\Debug\net10.0\The Dominion of Kings.pdb
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\obj\Debug\net10.0\The Dominion of Kings.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\obj\Debug\net10.0\The Dominion of Kings.AssemblyInfoInputs.cache
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\obj\Debug\net10.0\The Dominion of Kings.AssemblyInfo.cs
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\obj\Debug\net10.0\The Dominion of Kings.csproj.CoreCompileInputs.cache
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\obj\Debug\net10.0\The Dominion of Kings.dll
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\obj\Debug\net10.0\refint\The Dominion of Kings.dll
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\obj\Debug\net10.0\The Dominion of Kings.pdb
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\obj\Debug\net10.0\The Dominion of Kings.genruntimeconfig.cache
+D:\School Programs\Programming\C#\Level07_Math\The Dominion of Kings\obj\Debug\net10.0\ref\The Dominion of Kings.dll
