@@ -1,0 +1,14 @@
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\bin\Debug\net10.0\TheVariableShop.exe
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\bin\Debug\net10.0\TheVariableShop.deps.json
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\bin\Debug\net10.0\TheVariableShop.runtimeconfig.json
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\bin\Debug\net10.0\TheVariableShop.dll
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\bin\Debug\net10.0\TheVariableShop.pdb
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\obj\Debug\net10.0\TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\obj\Debug\net10.0\TheVariableShop.AssemblyInfoInputs.cache
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\obj\Debug\net10.0\TheVariableShop.AssemblyInfo.cs
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\obj\Debug\net10.0\TheVariableShop.csproj.CoreCompileInputs.cache
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\obj\Debug\net10.0\TheVariableShop.dll
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\obj\Debug\net10.0\refint\TheVariableShop.dll
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\obj\Debug\net10.0\TheVariableShop.pdb
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\obj\Debug\net10.0\TheVariableShop.genruntimeconfig.cache
+D:\School Programs\Programming\C#\Level05_Variables\TheVariableShop\obj\Debug\net10.0\ref\TheVariableShop.dll
